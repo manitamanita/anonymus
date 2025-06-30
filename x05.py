@@ -69,7 +69,7 @@ else :
 
 
 print('DDos On')
-ip= str(input("                    Ip only :"))
+ip= str(input("                    Ip  :"))
 port= int(input("                    port Anonymous :"))
 choice = str(input("                   Your Attack? (y/n) anonymous :"))
 times= int(input("                   Time only :"))
